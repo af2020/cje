@@ -4,6 +4,9 @@
 ## 설치
 * CJE_R_Text_Analysis_Class_00.ipynb
 
+## Getting Started
+* Getting_Started_for_text_analysis_using_R.ipynb 
+
 ## R 및 tidytext 패키지 기초 사용법
 * CJE_R_Text_Analysis_Class_01.ipynb
 
@@ -15,4 +18,7 @@
 ## 한글 텍스트 데이터 분석
 * CJE_R_Text_Analysis_Class_05.ipynb - 신문 기사 분석 예시 - 형태소 분석, 사전 사용법 (불용어 사전, 감성사전)
 * CJE_R_Text_Analysis_Class_06.ipynb - 불용어와 감성사전 활용한 분석
+
+## 참조
+* class_memo.ipynb - 유용한 사이트 모음
 
